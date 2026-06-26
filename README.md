@@ -96,18 +96,8 @@ class Physics:
 ## 🚀 Cómo Ejecutar
 
 ```bash
-cd ritual_refactor
 python main.py
 ```
-
-## 📝 TODOs
-
-- [ ] Refactorizar `fructis_noctis.py` (cartas)
-- [ ] Refactorizar `multiverso.py` (poliedros)
-- [ ] Refactorizar `revelatio.py`
-- [ ] Migrar carpeta `art/` a `assets/`
-- [ ] Tests unitarios (si Brujo quiere)
-- [ ] Documentar "momentos especiales" (forbidden fruit, etc.)
 
 ## 🌙 Filosofía
 
