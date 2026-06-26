@@ -14,10 +14,10 @@ ritual_refactor/
 ├── modes/               # Modos rituales
 │   ├── __init__.py
 │   ├── el_rito.py       # Dados ✅ REFACTORED
-│   ├── fructis_noctis.py  # Cartas (TODO)
-│   ├── multiverso.py    # Poliedros (TODO)
-│   └── revelatio.py     # Revelación (TODO)
-└── assets/              # Recursos (futuro)
+│   ├── fructis_noctis.py  # Cartas  ✅ REFACTORED
+│   ├── multiverso.py    # Poliedros  ✅ REFACTORED
+│   └── revelatio.py     # Revelación  ✅ REFACTORED
+└── assets/              # Recursos  ✅ REFACTORED
     └── art/             # Imágenes generativas
 ```
 
